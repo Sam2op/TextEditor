@@ -1,0 +1,18 @@
+
+
+Version:	3.50
+CmdLine:	C:\Users\HP\Desktop\Sam Editor\Sam Editor.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\HP\Desktop\Sam Editor\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+JRE paths:	jre
+Check launcher:	C:\Users\HP\Desktop\Sam Editor\jre\bin\javaw.exe (OK)
+Version string: 1.017.000_001 / 64-Bit (OK)
+Launcher:	C:\Users\HP\Desktop\Sam Editor\jre\bin\javaw.exe
+Launcher args:	-jar "C:\Users\HP\Desktop\Sam Editor\Sam Editor.exe"
+Args length:	52/32768 chars
+Exit code:	0
